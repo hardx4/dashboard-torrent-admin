@@ -1,2 +1,2 @@
 # dashboard-torrent-admin
-Cliente de admistração front-end
+Cliente de administração front-end
